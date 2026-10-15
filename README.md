@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🎓 IT and Communications Technologies Engineering Student
+- 💻 Interested in Cybersecurity, Networking, Data Science, Machine Learning, and IoT.
+- 🛠️ Working with Python, Linux, Git, GitHub, Raspberry Pi, and ESP32.
+- 📚 Always learning, building projects, and exploring new technologies.
 <!--
 **AdrianMorenoM/AdrianMorenoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
